@@ -29,7 +29,7 @@ A real-time project collaboration tool built with React, Node.js, and Socket.IO.
 - **State Management**: Efficient React state management
 
 ### Screenshots ![Screenshot 2025-07-05 122249](https://github.com/user-attachments/assets/2f9b9ca5-d002-4c85-a785-261f777b7eba)
-image(![Screenshot 2025-07-05 122305](https://github.com/user-attachments/assets/07f56e6d-df73-44ca-a09d-d7054e68d901))
+![Screenshot 2025-07-05 122305](https://github.com/user-attachments/assets/07f56e6d-df73-44ca-a09d-d7054e68d901)
 
 
 ## 🏗️ Architecture
